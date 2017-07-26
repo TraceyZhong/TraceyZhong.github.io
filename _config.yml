@@ -1,3 +1,13 @@
+# Site settings
+title: Tracey's Webpage
+email: zhongxy14@gmail.com
+github_username: TraceyZhong
+paginate: 5
+
+gems: [jekyll-paginate, kramdown]
+# Build settings
+markdown: kramdown
+
 # Where things are
 source:       .
 destination:  ./_site
