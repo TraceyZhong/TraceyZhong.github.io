@@ -570,20 +570,21 @@ pre {
   margin-bottom: $spacing-unit;
 }
 .post-title {
-  font-size: 62px;
+  font-size: 40px;
 
   text-align: center;
-  font-family: "PT Sans";
-  font-weight: 900;
+  font-family: Optima, Segoe, 'Segoe UI', Candara, Calibri, Arial, sans-serif;
+  font-weight: 500;
   @include media-query($on-laptop) {
-    font-size: 36px;
+    font-size: 28px;
   }
 }
 .post-content {
   margin-bottom: $spacing-unit;
   padding-bottom: 3em !important;
   p {
-    font-size: 1.5rem;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    font-size: 18px;
   }
   h2 {
     font-size: 32px;
