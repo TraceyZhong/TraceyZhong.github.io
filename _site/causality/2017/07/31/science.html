@@ -6,13 +6,13 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>Translation</title>
-  <meta name="description" content="">
+  <title>Simpson&#39;s Paradox</title>
+  <meta name="description" content="The Simpson’s Paradox">
   <link href='https://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic,700italic|Source+Sans+Pro:400,700,200,300|Josefin+Sans:400,600,700,300' rel='stylesheet' type='text/css'>
   <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet">
 
   <link rel="stylesheet" href="/css/style.css">
-  <link rel="canonical" href="http://localhost:4000/translation/">
+  <link rel="canonical" href="http://localhost:4000/causality/2017/07/31/science.html">
   <link rel="alternate" type="application/rss+xml" title="Garden of Forking Paths" href="http://localhost:4000/feed.xml">
 </head>
 
@@ -51,48 +51,72 @@
 
     <div class="page-content">
       <div class="wrapper">
-        <article class="post">
+        <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
-  <!--  <h1 class="post-title">Translation</h1>-->
+    <h1 class="post-title" itemprop="name headline"><a class="post-title-link"  href="/causality/2017/07/31/science.html">Simpson's Paradox</a></h1>
+  <center>  <p class="post-meta"><time datetime="2017-07-30T17:46:00-07:00" itemprop="datePublished">Jul 31, 2017</time></p>
+    
+   </center>
   </header>
 
+  <div class="post-content" itemprop="articleBody">
+    <h1 id="the-simpsons-paradox">The Simpson’s Paradox</h1>
+
+<h4 id="the-paradox">The Paradox</h4>
+
+<p>One of the well known example of Simpson’s Paradox is the admission bias of UCB. If we calculate the admission rate of men and women to UCB respectively, we will find the data “indicates” the school has a small “preference” to male. However, if the rates are examined at each individual department, we find most departments are strongly biased against men.</p>
+
+<p>People tend to think it is because those departments in favor of men recruit most of the student thus in general the school seems biased against men.</p>
+
+<p>But the amazing aspect of this paradox is, even if in <em>every</em> department a preference for women is recognized, the whole admission rate for men may also exceeds women.</p>
+
+<p>This phenomenon is often encountered in medical-science statistics. Here is an example</p>
+
+<table>
+  <thead>
+    <tr>
+      <th> </th>
+      <th>Treatment</th>
+      <th>Control</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>High GPA</td>
+      <td>0.93 (81/87)</td>
+      <td>0.87 (234/270)</td>
+    </tr>
+    <tr>
+      <td>Low GPA</td>
+      <td>0.73 (192/263)</td>
+      <td>0.69 (55/80)</td>
+    </tr>
+    <tr>
+      <td>Both</td>
+      <td>0.78 (275/350)</td>
+      <td>0.83 (268/350)</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>It seems like Treatment is effective when applied to both H and L group of people, however, if all samples are considered in the same time, we should better leave people untreated.</p>
+
+<p>Here comes the problem, will you apply the treatment to a patient? How will you decide whether the treatment is effective?</p>
+
+<p>A misleading hint: according to the naïve Bayesian point of view, if you don’t know the GPA of the patient, don’t let him take the treatment. Once you know, however his academic performance is, he should taken the treatment.</p>
+
+  </div>
+
+  <footer class="postNavigation">
   
+    <a class="postPrev" href="/translation/2017/07/30/sisyphe.html">
+        &laquo; The myth of Sisyphe
+    </a>
+  
+  
+  </footer>
 
-  <div class="post-content">
-    
-
-
-
-
-
-
-
-
-
-
-<div class="post postContent">
-  <div  class="postDate"><time datetime="2017-07-30T16:35:00-07:00" itemprop="datePublished">Jul 30, 2017</time>
-  </div>
-  <div class="postTag">
-    
-  </div>
-  <br>
-  <div class="postTitle">
-  <a class='postLink' href="http://localhost:4000/translation/2017/07/30/sisyphe.html">The myth of Sisyphe</a>
-  </div>
-  <div class="postExt">
-    <p>The gods have condemned Sisyphe to constantly roll a rock to the peak of a mountain where the rock would fall due to its own weight. They have thought with some reasons that there will be no punishment more terrble than the one whose work is futile yet without hope.</p>
-
-
-  </div>
-</div>
-
-
-
-
-
-  </div>
 
 </article>
 
