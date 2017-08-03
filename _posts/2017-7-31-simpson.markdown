@@ -5,6 +5,9 @@ date:   2017-07-31 00:46:00
 categories: causality
 
 ---
+
+This article with introduce the Simpson's paradox and offers an solution through Pearl's Graph Model. It also want to explore the philosophical aspect of causal inference through this problem.
+
 # The Simpson's Paradox
 
 #### The Paradox
