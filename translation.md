@@ -12,3 +12,4 @@ category: "translation"
 
 <h4>Récoltes et Semailles</h4>
 
+[As Foreword]({% post_url 2018-03-10-RS %})<br />
