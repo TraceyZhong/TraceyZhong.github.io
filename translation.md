@@ -11,5 +11,4 @@ category: "translation"
 [The Stranger I]({% post_url 2017-08-01-StrangerI %})<br />
 
 <h4>Récoltes et Semailles</h4>
-
 [As Foreword]({% post_url 2018-03-10-RS %})<br />
