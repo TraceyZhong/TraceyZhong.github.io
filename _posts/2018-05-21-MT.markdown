@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "数学系毕设相关"
+title:  "Math Thesis"
 date:   2018-05-21 13:21:00
+categories: causality
 
 ---
 
