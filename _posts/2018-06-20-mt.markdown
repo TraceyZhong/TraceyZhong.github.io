@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "The Use Theory of Meaning"
+date:   2018-06-20 13:21:00
+categories: writing	
+
+---
+
+Wittgenstein opens the Philosophical Investigation by quoting Confession of Augustine where Augustine depicts language in the way that the words in language name objects a sentences are combinations of such names. This illustration of language implies that “every word has a meaning. This meaning is correlated with the word. It is the object for which the word stands.”
+
+Yet he questions the foundation of the common belief that there is a definite bond that correlates the word and the object in the real world it designates. First, the philosophical foundations of the existence of that bond is not clear: what ensures such bond, what makes up such bond. If the material of language is based on personal experience or transcendental knowledge  and the world exists outside of the subject, then such a bond bridges the subject-object opposition is particularly nontrivial. 
+
+Such a common understanding of language mentioned nature is untenable. Philosopher can’t resolve the philosophical basis for determine the connection.
+
+The influence of Descartes’ philosophy makes people absolutely oppose the subject’s self and the external world as object. This dualism makes it impossible for philosophers to interpret the language that connects two. The solution proposed by Wittgenstein is to defy objective existence such “bond” between the word and the object it designates, and in my understanding, he even abandon the ontological meaning of language: words and sentence has no exact meaning it self, the meaning of language is its “use”.
+
+My understating of his theory can be roughly stated as follows: each individual has internal ideas. We are not bother here to discuss the foundation of internal ideas, it can be the product of external things and experience effecting on our senses (the sense data put by Russell). We would emphasise here that Wittgenstein believes that everyone’s private thought are unknown to other. Language is the product of people’s interaction and communication. Though Wittgenstein doesn’t explicitly say how communication becomes possible among human, the solution we gave during the class is it is based on the the homogeneity part of human, or the similarities among all human being, or this group of one particular language user.
+
+In Philosophical Investigation, Wittgenstein uses the expression of experience and colour to support his idea which give very insightful illustrations. I would also give an example that echoes in my mind when reading his arguments. The essence of love confounds human throughout history, even right now neither biology or psychology can give us an explanation on the mechanics of love (there are theories but not convincing enough.) Such word without exact referent, has always been the subject of praise. But when you ask the deeply affectionate writers what are they praising, they can’t give an answer but offers more depiction:
