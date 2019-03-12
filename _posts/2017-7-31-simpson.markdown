@@ -2,7 +2,7 @@
 layout: post
 title:  "Simpson's Paradox"
 date:   2017-07-31 00:46:00
-categories: causality
+categories: writing
 
 ---
 

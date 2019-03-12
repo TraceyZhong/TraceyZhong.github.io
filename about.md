@@ -4,13 +4,13 @@ title : About
 permalink: /about/
 
 ---
-<h2> Xinyi Zhong </h2>
-<p> This is Xinyi Zhong's webpage, where she posts her translation (from French to English) and Academic Notes. </p>
+<h2> Xinyi (Tracey) Zhong </h2>
+<p> This is Tracey's homepage, where she posts her translation (from French to English,) music notes and random writings. </p>
 
 <address>
 Contact me by <a href="mailto:zhongxy14@gmail.com"> Xinyi Zhong</a>.<br>
-Tsinghua University, Beijing<br>
-China
+24 Hillhouse Ave<br>
+New Haven, CT 06511<br>
 </address>
 
  
