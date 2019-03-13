@@ -587,18 +587,22 @@ pre {
     font-size: 18px;
   }
   h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 500;
     font-size: 36px;
     @include media-query($on-laptop) {
       font-size: 32px;
     }
   }
   h2 {
+    font-family: 'Courier New', Courier, monospace;
     font-size: 30px;
     @include media-query($on-laptop) {
       font-size: 28px;
     }
   }
   h3 {
+    font-family: 'Courier New', Courier, monospace;
     font-size: 26px;
     @include media-query($on-laptop) {
       font-size: 22px;
