@@ -589,9 +589,10 @@ pre {
   h1 {
     font-family: 'Courier New', Courier, monospace;
     font-weight: 500;
-    font-size: 36px;
+    font-size: 32px;
+    border-bottom: 1px solid #808080;
     @include media-query($on-laptop) {
-      font-size: 32px;
+      font-size: 30px;
     }
   }
   h2 {
