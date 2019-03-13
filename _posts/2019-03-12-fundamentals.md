@@ -42,4 +42,26 @@ categories: music
 
 
 # The Structures of Music
- 
+
+## Melody
+- motive: a distinctive fragment of melody returning again and again (e.g. *da da da DA* in Beethoven's FIfth Symphony)
+- theme: the 'topic', a melody, a phrase, a motive even a tone color can be the theme
+
+## Texture
+- monophony: one melody
+- homophony: accompanying parts have the same rhythm
+- polyphony: more melodies are played simultaneously
+    - imitative polyphony (e.g. 'row, row, row your boat')
+
+## Tonality and Modality
+tone + mode = key
+
+
+## Form 
+- general form: the organization of elements in a musical work
+- *a* form: standardized fromall patterns
+- outter form and inner form 
+
+## Genre
+
+symphonies, sonatas, madrigals, and operas, etc..
