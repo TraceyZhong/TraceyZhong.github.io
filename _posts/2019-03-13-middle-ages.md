@@ -41,4 +41,3 @@ This is the earliest type of polyphony. A.D. 1000- A.D. 1200. Important features
 ## Later Medieval Polyphony
 
 At that time, polyphonic music gradually distanced from Church services. The upper lines were given own words. This sort of polyphony is called **motet**.
-
