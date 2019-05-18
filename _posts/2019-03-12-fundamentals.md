@@ -9,7 +9,7 @@ categories: music
 
 - pitch: the rate of sound vibration
 - dynamics: the strength of sound vibrations
-- tone color, timber: sound quality depending on the instrumetns or voices that produce them (e.g. bright, warm, ringing, hollow or brassy)
+- tone color, timber: sound quality depending on the instruments or voices that produce them (e.g. bright, warm, ringing, hollow or brassy)
 - overtone: a musical tone which is a part of the harmonic series above a fundamental note, and may be heard with it.
 -rhythm: the actual arrangement of durations
 
@@ -59,8 +59,8 @@ tone + mode = key
 
 ## Form 
 - general form: the organization of elements in a musical work
-- *a* form: standardized fromall patterns
-- outter form and inner form 
+- *a* form: standardized formal patterns
+- outer form and inner form 
 
 ## Genre
 

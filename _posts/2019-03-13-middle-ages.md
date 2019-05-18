@@ -11,9 +11,9 @@ categories: music
 
 This repertory of music is the collection of melodies designated religious texts to be sung at services.
 
-The early Chruch condemned sensuality, and with it anything taht suggested dancing, such as meter or musical instruments.
+The early Church condemned sensuality, and with it anything that suggested dancing, such as meter or musical instruments.
 
-The chant is call 'Gregorian' after the famous pope and Church father Gregory I (c. 540-604) assembled adn standardized all the chants required for the Church serviecs of his time.
+The chant is call 'Gregorian' after the famous pope and Church father Gregory I (c. 540-604) assembled adn standardized all the chants required for the Church services of his time.
 
 ## Genres
 
@@ -36,7 +36,7 @@ This is the earliest type of polyphony. A.D. 1000- A.D. 1200. Important features
 
 3. (Radical) definite rhythms controlled by meter were introduced, each melody has its own rhythm.
 
-4. The chant, became often the sustained notes or drones, can not be recognized a an actualy melody. The plainchant is an abstract basis for the ecstatic upper-voice melodies, still the main focus of interest.
+4. The chant, became often the sustained notes or drones, can not be recognized a an actual melody. The plainchant is an abstract basis for the ecstatic upper-voice melodies, still the main focus of interest.
 
 ## Later Medieval Polyphony
 
