@@ -24,7 +24,7 @@ li > ul, li > ol { margin-bottom: 0; }
 h1, h2, h3, h4, h5, h6 { font-weight: 400; }
 
 /** Links */
-a { color: #aaa !important; text-decoration: none; }
+a { color: #707B7C !important; text-decoration: none; }
 a:visited { color: #1756a9; }
 a:hover { color: black !important; border-bottom: 1px dotted black; }
 a.page-link:hover { color: #111; border-bottom: 1px dotted black; }
